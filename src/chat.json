@@ -292,6 +292,37 @@
       {
         "question": "who are you",
         "answer": "Frontend developer, Backend developer,Full Stack developer"
+      },{
+        "question": "what are your projects?",
+        "answer": "Real-Time Chat Application, Portfolio website and Weather website"
+      },
+      {
+        "question": "what are your projects",
+        "answer": "Real-Time Chat Application, Portfolio website and Weather website"
+      },
+      {
+        "question": "your projects?",
+        "answer": "Real-Time Chat Application, Portfolio website and Weather website"
+      },
+      {
+        "question": "your projects",
+        "answer": "Real-Time Chat Application, Portfolio website and Weather website"
+      },
+      {
+        "question": "projects?",
+        "answer": "Real-Time Chat Application, Portfolio website and Weather website"
+      },
+      {
+        "question": "hi Ajit",
+        "answer" :"hi sir"
+      },
+      {
+        "question": "Hi Ajit",
+        "answer" :"hi sir"
+      },
+      {
+        "question": "hi Ajit, how are you",
+        "answer" :"hi sir, I am fine"
       }
     ]
   }
